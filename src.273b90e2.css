@@ -1,0 +1,2 @@
+body,html{height:100%}body{display:flex;align-items:center;justify-content:center;background:linear-gradient(90deg,#649173,#dbd5a4);box-sizing:border-box;font-family:sans-serif}#app{display:grid;grid-template-columns:repeat(3,1fr);grid-column-gap:1.5rem;width:30rem}.animal{display:flex;justify-content:center;align-items:center;background-color:#eee;padding:1.5rem;text-transform:uppercase;cursor:pointer;transition:all .3s ease-in-out}.animal:hover{transform:translate(-3px,-3px);box-shadow:5px 5px 10px rgba(25,25,25,.5)}
+/*# sourceMappingURL=/csb-d5cdt/src.273b90e2.css.map */
